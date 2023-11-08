@@ -12,6 +12,7 @@ Clone this repository into the src directory of your catkin workspace:
     git clone https://github.com/Orkun00/mouse_node_orkunacar.git
 
 ## Building the Package 🏗️
+Before doing this step make sure you use source on your terminal. This step also given in running the ros node part.
 
 To build the package, navigate to the root of your catkin workspace and run catkin_make:
 
