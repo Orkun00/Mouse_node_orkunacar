@@ -18,7 +18,9 @@ To build the package, navigate to the root of your catkin workspace and run catk
     cd ~/catkin_ws
     catkin_make
 
-This command will build all the packages in the workspace, including mouse_node_orkunacar. Running the ROS Node 🚀
+This command will build all the packages in the workspace, including mouse_node_orkunacar. 
+
+## Running the ROS Node 🚀
 
 Before running the node, you must source the setup files:
 
