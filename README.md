@@ -9,6 +9,8 @@ Make sure you have ROS Noetic installed on Ubuntu 20.04 (or any compatible ROS d
 Clone this repository into the src directory of your catkin workspace:
 
     cd ~/catkin_ws/src
+    mkdir mouse_node_orkunacar
+    cd mouse_node_orkunacar
     git clone https://github.com/Orkun00/mouse_node_orkunacar.git
 
 ## Building the Package 🏗️
