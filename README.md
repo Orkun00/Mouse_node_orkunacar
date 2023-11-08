@@ -24,7 +24,9 @@ This command will build all the packages in the workspace, including mouse_node_
 
 Before running the node, you must source the setup files:
 
-    source /opt/ros/noetic/setup.bash //or
+    source /opt/ros/noetic/setup.bash 
+or
+
     source ~/catkin_ws/devel/setup.bash
 
 You can add these lines to your ~/.bashrc file to automatically source them in every new terminal:
